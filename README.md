@@ -1,19 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-img {
-  width: 100%;
-}
-</style>
-</head>
-<body>
-
-<img src="https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg" alt=”an artist's rendition of a black hole in space”>
+ <img align="right" alt="coding" width="400" src="https://blog.cgify.com/wp-content/uploads/2020/10/how_to_create_an_educational_app_4.jpg">
 
 
-</body>
-</html>
 
 
 
