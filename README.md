@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400" src="assets\result0 (3).jpg">
 # travelling
 
 A new Flutter project.
