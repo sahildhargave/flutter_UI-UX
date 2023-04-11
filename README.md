@@ -1,16 +1,7 @@
-# timer
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<h1> StopWatch</h1>
+</p>
+<img align="left" width="300" src="https://github.com/sahildhargave/flutter_UI-UX/blob/stopwatch/assets/images/Screenshot_2023-04-11-18-59-02-86_8abd207e0903762a18b5f561d99213ef.jpg"/>
+<img align="right" width="300" src="https://github.com/sahildhargave/flutter_UI-UX/blob/stopwatch/assets/images/Screenshot_2023-04-11-18-59-10-72_8abd207e0903762a18b5f561d99213ef.jpg?raw=true"/>
+<img align="left" width="300" src="https://github.com/sahildhargave/flutter_UI-UX/blob/stopwatch/assets/images/Screenshot_2023-04-11-18-59-16-66_8abd207e0903762a18b5f561d99213ef.jpg?raw=true"/>
+<img align="right" width="300" src="https://github.com/sahildhargave/flutter_UI-UX/blob/stopwatch/assets/images/Screenshot_2023-04-11-18-59-22-60_8abd207e0903762a18b5f561d99213ef.jpg?raw=true"/>
