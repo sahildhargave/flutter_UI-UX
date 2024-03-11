@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # uiux
+=======
+# timer
+>>>>>>> a086b77 (first commit)
 
 A new Flutter project.
 
